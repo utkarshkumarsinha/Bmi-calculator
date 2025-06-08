@@ -10,7 +10,7 @@ A simple and interactive **Body Mass Index (BMI)** calculator built using **HTML
 - 🎨 Clean and responsive user interface
 - 🧠 Beginner-friendly and easy to understand
 
-## 🚀 Technologies Used
+## 🚀 Technologies Used In This
 
 - HTML
 - CSS
