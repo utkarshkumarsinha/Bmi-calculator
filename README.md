@@ -14,4 +14,4 @@ A simple and interactive **Body Mass Index (BMI)** calculator built using **HTML
 
 - HTML
 - CSS
-- JavaScript 
+- JavaScript. 
